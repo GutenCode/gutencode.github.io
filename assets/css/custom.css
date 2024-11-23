@@ -1,16 +1,16 @@
 /* custom.css */
 
 body {
-    font-family: Roboto, sans-serif; /* Change body font */
+    font-family: Comfortaa; /* Change body font */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Roboto, serif; /* Change heading font */
+    font-family: Comfortaa; /* Change heading font */
 }
 
 /* Style for the title */
 .title {
-    font-family: Roboto, sans-serif;
+    font-family: Comfortaa;
     font-size: 2.5em; /* Adjust the size */
     font-weight: bold; /* Make it bold */
     color: #333333; /* Change color */
