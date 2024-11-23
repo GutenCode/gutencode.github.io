@@ -8,20 +8,11 @@ h1, h2, h3, h4, h5, h6 {
     font-family: Georgia, serif; /* Change heading font */
 }
 
-/* Style for the site title */
-.home-title {
+/* Style for the title */
+.title {
     font-size: 2.5em; /* Adjust the size */
     font-weight: bold; /* Make it bold */
     color: #333333; /* Change color */
     text-align: center; /* Center the title */
     margin-bottom: 20px; /* Add space below the title */
-}
-
-/* Style for post titles */
-.post-title {
-    font-size: 2em; /* Adjust the size */
-    font-weight: 600; /* Semi-bold */
-    color: #007bff; /* Change color */
-    margin-top: 30px; /* Add space above the title */
-    margin-bottom: 10px; /* Add space below the title */
 }
