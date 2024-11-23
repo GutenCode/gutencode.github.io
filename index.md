@@ -9,5 +9,6 @@ layout: default
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 </head>
 <body>
+    Hello
 </body>
 </html>
