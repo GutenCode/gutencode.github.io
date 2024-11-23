@@ -8,12 +8,23 @@ layout: default
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" rel="stylesheet">
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Barlow');
       body {
-        font-family: 'Barlow'; /* Change font for the entire site */
-        font-size: 16px; /* Change base font size */
-        line-height: 1.5; /* Adjust line height for readability */
+        font-family: 'Barlow', sans-serif; /* Set Barlow as the default font */
+      }
+      h1, h2, h3, h4, h5, h6 {
+        font-family: 'Barlow', sans-serif; /* Customize headings */
+      }
+      p {
+        margin-bottom: 1.5em; /* Add space between paragraphs */
+      }
+      a {
+        color: #007BFF; /* Change link color */
+        text-decoration: none; /* Remove underline */
+      }
+      a:hover {
+        text-decoration: underline; /* Underline on hover */
       }
     </style>
   </head>
