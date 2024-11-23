@@ -1,3 +1,4 @@
 title : "Con Title"
 baseurl: ""
 theme: minima
+paginate : 5
