@@ -1,0 +1,40 @@
+/* header.css */
+
+header {
+    background-color: #f8f9fa; /* Light background color */
+    padding: 20px; /* Padding around the header */
+    border-bottom: 2px solid #e0e0e0; /* Bottom border */
+}
+
+header .container {
+    max-width: 1200px; /* Max width for the container */
+    margin: 0 auto; /* Center the container */
+}
+
+header h1 {
+    font-size: 2em; /* Larger font size for the site title */
+    margin: 0; /* Remove default margin */
+}
+
+header nav {
+    margin-top: 10px; /* Space between title and navigation */
+}
+
+header nav ul {
+    list-style-type: none; /* Remove bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+header nav ul li {
+    display: inline; /* Display list items inline */
+    margin-right: 20px; /* Space between navigation links */
+}
+
+header nav a {
+    text-decoration: none; /* Remove underline from links */
+    color: #007bff; /* Link color */
+}
+
+header nav a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
