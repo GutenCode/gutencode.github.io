@@ -1,5 +1,9 @@
 /* custom.css */
 
+title {
+    font-family: Arial, sans-serif; /* Change body font */
+}
+
 body {
     font-family: Arial, sans-serif; /* Change body font */
 }
