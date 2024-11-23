@@ -1,14 +1,51 @@
+<!-- index.html -->
 ---
 layout: default
+title: Home
 ---
 
-<h1>{{ page.title }}</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <style>
+        /* Add your font styles here */
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-<ul>
-  {% for post in site.posts %}
+        body {
+            font-family: 'Roboto', sans-serif; /* Change font for the entire site */
+            font-size: 16px; /* Change base font size */
+            line-height: 1.5; /* Adjust line height for readability */
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Roboto', sans-serif; /* Customize headings */
+        }
+
+        p {
+            margin-bottom: 1.5em; /* Add space between paragraphs */
+        }
+
+        a {
+            color: #007BFF; /* Change link color */
+            text-decoration: none; /* Remove underline */
+        }
+
+        a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
+    </style>
+</head>
+<body>
+  <ul>
+    {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a> 
       Published on {{ post.date | date: "%B %d, %Y" }}
     </li>
-  {% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
+</body>
+</html>
