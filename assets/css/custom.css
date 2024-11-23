@@ -1,15 +1,16 @@
 /* custom.css */
 
 body {
-    font-family: Barlow, sans-serif; /* Change body font */
+    font-family: Roboto, sans-serif; /* Change body font */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Barlow, serif; /* Change heading font */
+    font-family: Roboto, serif; /* Change heading font */
 }
 
 /* Style for the title */
 .title {
+    font-family: Roboto, sans-serif;
     font-size: 2.5em; /* Adjust the size */
     font-weight: bold; /* Make it bold */
     color: #333333; /* Change color */
