@@ -1,11 +1,11 @@
 /* custom.css */
 
 body {
-    font-family: Arial, sans-serif; /* Change body font */
+    font-family: Barlow, sans-serif; /* Change body font */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Georgia, serif; /* Change heading font */
+    font-family: Barlow, serif; /* Change heading font */
 }
 
 /* Style for the title */
