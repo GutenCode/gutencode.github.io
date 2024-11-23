@@ -1,13 +1,27 @@
 /* custom.css */
 
-title {
-    font-family: Arial, sans-serif; /* Change body font */
-}
-
 body {
     font-family: Arial, sans-serif; /* Change body font */
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: Georgia, serif; /* Change heading font */
+}
+
+/* Style for the site title */
+.site-title {
+    font-size: 2.5em; /* Adjust the size */
+    font-weight: bold; /* Make it bold */
+    color: #333; /* Change color */
+    text-align: center; /* Center the title */
+    margin-bottom: 20px; /* Add space below the title */
+}
+
+/* Style for post titles */
+.post-title {
+    font-size: 2em; /* Adjust the size */
+    font-weight: 600; /* Semi-bold */
+    color: #007bff; /* Change color */
+    margin-top: 30px; /* Add space above the title */
+    margin-bottom: 10px; /* Add space below the title */
 }
