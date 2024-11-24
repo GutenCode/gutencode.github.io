@@ -11,9 +11,9 @@ layout: default
 </head>
 <body>
     <h2>Product Management</h2>
-    <ul>
+    <ul class = "posts">
         {% for post in site.posts %}
-        <li class = "posts">
+        <li>
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
