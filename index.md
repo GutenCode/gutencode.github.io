@@ -9,7 +9,7 @@ layout: default
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 </head>
 <body>
-    >Articles
+    <h3>All Posts</h3>
     <ul>
         {% for post in site.posts %}
         <li>
