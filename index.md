@@ -14,7 +14,9 @@ layout: default
     <ul class = "posts">
         {% for post in site.posts %}
         <li>
-            <span>&raquo; </span> <a href="{{ post.url }}">{{ post.title }}</a>
+            <span>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </span>
         </li>
         {% endfor %}
     </ul>
