@@ -1,26 +1,26 @@
 /* custom.css */
 
 .title {
-    font-family: 'Titillium Web', sans-serif;
+    font-family: 'Manrope', sans-serif;
     font-weight: 400;
 }
 
 body {
-    font-family: 'Titillium Web', sans-serif; /* Use Open Sans for body text */
+    font-family: 'Manrope', sans-serif; /* Use Open Sans for body text */
     font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Titillium Web', sans-serif; /* Use Barlow for headings */
+    font-family: 'Manrope', sans-serif; /* Use Barlow for headings */
     font-weight: 400; /* Bold weight for headings */
 }
 
 p {
-    font-family: 'Titillium Web', sans-serif; /* Use Open Sans for paragraphs */
+    font-family: 'Manrope', sans-serif; /* Use Open Sans for paragraphs */
     font-weight: 400; /* Regular weight for paragraphs */
 }
 
 li {
-    font-family: 'Titillium Web', sans-serif; /* Use Open Sans for list items */
+    font-family: 'Manrope', sans-serif; /* Use Open Sans for list items */
     font-weight: 400; /* Regular weight for paragraphs */
 }
