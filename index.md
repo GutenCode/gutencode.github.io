@@ -7,7 +7,6 @@ layout: default
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-    <title>{{title}}</title>
 </head>
 <body>
     <h2>Posts</h2>
