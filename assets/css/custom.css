@@ -1,5 +1,9 @@
 /* custom.css */
 
+.title {
+    font-family: 'Open Sans', sans-serif; /* Use Open Sans for body text */
+}
+
 body {
     font-family: 'Open Sans', sans-serif; /* Use Open Sans for body text */
 }
