@@ -1,8 +1,26 @@
 ul.posts {
+  list-style-type: none; /* Remove default bullets */
+  padding: 0; /* Remove padding */
   margin-bottom: 2em; 
 }
 
 ul.posts li {
-  line-height: 1.75em;
-  font-size: 1.5rem; /* 1.5 times the root font size */
+  position: relative; /* Positioning for custom bullets */
+  padding-left: 20px; /* Space for the custom bullet */
+  line-height: 1.5em;
+  font-size: 1.25rem; /* 1.25 times the root font size */
+}
+
+/* Custom bullet points using ::before */
+
+ul.posts li::before {
+    content: ""; /* Empty content for the bullet */
+    position: absolute; /* Position it absolutely */
+    left: 0; /* Align to the left */
+    top: 0; /* Align to the top */
+    width: 10px; /* Width of the bullet */
+    height: 10px; /* Height of the bullet */
+    background-color: blue; /* Change bullet color */
+    border-radius: 50%; /* Make it round */
+    margin-top: 5px; /* Align with text */
 }
