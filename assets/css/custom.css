@@ -1,16 +1,16 @@
 /* custom.css */
 
 body {
-    font-family: 'Comfortaa', cursive; /* Change body font */
+    font-family: 'Barlow', sans-serif; /* Change body font */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Comfortaa', cursive; /* Change heading font */
+    font-family: 'Barlow', sans-serif; /* Change heading font */
 }
 
 /* Style for the title */
 .title {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Barlow', sans-serif;
     font-size: 2.5em; /* Adjust the size */
     font-weight: bold; /* Make it bold */
     color: #6e0808; /* Change color */
