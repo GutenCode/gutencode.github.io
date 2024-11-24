@@ -13,3 +13,8 @@ p {
     font-family: 'Open Sans', sans-serif; /* Use Open Sans for paragraphs */
     font-weight: 400; /* Regular weight for paragraphs */
 }
+
+li {
+    font-family: 'Open Sans', sans-serif; /* Use Open Sans for list items */
+    font-weight: 400; /* Regular weight for paragraphs */
+}
