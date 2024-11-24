@@ -4,6 +4,6 @@ ul.posts {
 ul.posts {
   line-height: 1.75em;
 }
-ul.posts span {
+ul.posts a {
   font-size: 125%;
 }
