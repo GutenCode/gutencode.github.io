@@ -1,25 +1,25 @@
 ul.posts {
     list-style-type: none; /* Remove default bullets */
     padding-left: 0.5rem;
-}
-
+  }
+  
 ul.posts li {
     position: relative;
     padding-left: 1.25rem;
     line-height: 2rem;
     font-size: 1.25rem;
 }
-
-/* Custom bullet points using ::before */
+  
+  /* Custom bullet points using ::before */
   
 ul.posts li::before {
     content: ""; /* Empty content for the bullet */
     position: absolute; /* Position it absolutely */
     left: 0; /* Align to the left */
     top: 0; /* Align to the top */
-    width: 0.5rem; /* Width of the bullet */
-    height: 0.5rem; /* Height of the bullet */
+    width: 0.4rem; /* Width of the bullet */
+    height: 0.4rem; /* Height of the bullet */
     background-color: #B0BEC5; /* Change bullet color */
     border-radius: 50%; /* Make it round */
-    margin-top: 0.75rem; /* Align with text */
+    margin-top: .75rem; /* Align with text */
 }
