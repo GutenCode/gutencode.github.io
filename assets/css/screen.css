@@ -1,12 +1,7 @@
 ul.posts {
-  list-style-type:none;
   margin-bottom: 2em; 
 }
 
-ul.posts {
+ul.posts li{
   line-height: 1.75em;
-}
-
-ul.posts span {
-  font-size: 80%;
 }
