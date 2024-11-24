@@ -6,8 +6,8 @@ ul.posts {
 ul.posts li {
     position: relative;
     padding-left: 1.25rem;
-    line-height: 1.5rem;
-    font-size: 1.25rem;
+    line-height: 1.25rem;
+    font-size: 1rem;
 }
   
   /* Custom bullet points using ::before */
