@@ -6,7 +6,7 @@ ul.posts {
 ul.posts li {
     position: relative;
     padding-left: 1.25rem;
-    line-height: 2rem;
+    line-height: 1.5rem;
     font-size: 1.25rem;
 }
   
@@ -21,5 +21,5 @@ ul.posts li::before {
     height: 0.4rem; /* Height of the bullet */
     background-color: #B0BEC5; /* Change bullet color */
     border-radius: 50%; /* Make it round */
-    margin-top: .75rem; /* Align with text */
+    margin-top: .5rem; /* Align with text */
 }
