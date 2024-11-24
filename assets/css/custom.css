@@ -1,1 +1,15 @@
 /* custom.css */
+
+body {
+    font-family: 'Open Sans', sans-serif; /* Use Open Sans for body text */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Barlow', sans-serif; /* Use Barlow for headings */
+    font-weight: 700; /* Bold weight for headings */
+}
+
+p {
+    font-family: 'Open Sans', sans-serif; /* Use Open Sans for paragraphs */
+    font-weight: 400; /* Regular weight for paragraphs */
+}
