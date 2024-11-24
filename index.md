@@ -7,12 +7,13 @@ layout: default
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Dosis:400,500,600,700" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
 </head>
 <body>
     <h2>Product Management</h2>
     <ul>
         {% for post in site.posts %}
-        <li>
+        <li class = "posts">
             <a href="{{ post.url }}">{{ post.title }}</a>
         </li>
         {% endfor %}
