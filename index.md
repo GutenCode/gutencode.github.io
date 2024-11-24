@@ -9,7 +9,7 @@ layout: default
     <link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
 </head>
 <body>
-    <h3>Product Management</h3>
+    <h2>Product Management</h2>
     <ul class = "posts">
         {% for post in site.posts %}
         <li>
