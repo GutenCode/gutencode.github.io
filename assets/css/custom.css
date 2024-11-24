@@ -1,20 +1,20 @@
 /* custom.css */
 
 body {
-    font-family: 'Montserrat', sans-serif; /* Use Open Sans for body text */
+    font-family: 'Roboto Slab', sans-serif; /* Use Open Sans for body text */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif; /* Use Barlow for headings */
+    font-family: 'Roboto Slab', sans-serif; /* Use Barlow for headings */
     font-weight: 700; /* Bold weight for headings */
 }
 
 p {
-    font-family: 'Montserrat', sans-serif; /* Use Open Sans for paragraphs */
+    font-family: 'Roboto Slab', sans-serif; /* Use Open Sans for paragraphs */
     font-weight: 400; /* Regular weight for paragraphs */
 }
 
 li {
-    font-family: 'Montserrat', sans-serif; /* Use Open Sans for list items */
+    font-family: 'Roboto Slab', sans-serif; /* Use Open Sans for list items */
     font-weight: 400; /* Regular weight for paragraphs */
 }
