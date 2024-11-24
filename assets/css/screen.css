@@ -1,3 +1,9 @@
 ul.posts {
-  font-size: 120%
+  margin-bottom: 2em;
+}
+ul.posts {
+  line-height: 1.75em;
+}
+ul.posts span {
+  font-size: 120%;
 }
