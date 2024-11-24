@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Articles"
 ---
 <html lang="en">
 <head>
@@ -10,7 +9,7 @@ title: "Articles"
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 </head>
 <body>
-    <h1>{{page.title}}</h1>
+    <h1>{{Posts}}</h1>
     <ul>
         {% for post in site.posts %}
         <li>
