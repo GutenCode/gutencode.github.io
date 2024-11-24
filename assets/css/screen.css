@@ -1,25 +1,25 @@
 .title {
-    font-family: 'Manrope', sans-serif;
-    font-weight: 700;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
 }
 
 body {
-    font-family: 'Barlow Semi Condensed', sans-serif; /* Use Open Sans for body text */
+    font-family: 'Barlow', sans-serif; /* Use Open Sans for body text */
     font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Barlow Semi Condensed', sans-serif; /* Use Barlow for headings */
+    font-family: 'Barlow', sans-serif; /* Use Barlow for headings */
     font-weight: 400; /* Bold weight for headings */
 }
 
 p {
-    font-family: 'Barlow Semi Condensed', sans-serif; /* Use Open Sans for paragraphs */
+    font-family: 'Barlow', sans-serif; /* Use Open Sans for paragraphs */
     font-weight: 400; /* Regular weight for paragraphs */
 }
 
 li {
-    font-family: 'Barlow Semi Condensed', sans-serif; /* Use Open Sans for list items */
+    font-family: 'Barlow', sans-serif; /* Use Open Sans for list items */
     font-weight: 400; /* Regular weight for paragraphs */
 }
 
