@@ -1,14 +1,15 @@
 ul.posts {
     list-style-type: none; /* Remove default bullets */
-    padding-left: 1.25rem;
-  }
+    padding-left: 0.5rem;
+}
+
 ul.posts li {
     position: relative;
     padding-left: 1.25rem;
     line-height: 2rem;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
-  
+
 /* Custom bullet points using ::before */
   
 ul.posts li::before {
@@ -21,4 +22,4 @@ ul.posts li::before {
     background-color: #B0BEC5; /* Change bullet color */
     border-radius: 50%; /* Make it round */
     margin-top: 0.75rem; /* Align with text */
-  }
+}
