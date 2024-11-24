@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Articles"
 ---
 <html lang="en">
 <head>
@@ -7,9 +8,9 @@ layout: default
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css?family=Comfortaa:400,700" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
-    <title>Articles</title>
 </head>
 <body>
+    <h1>{{title}}</h1>
     <ul>
         {% for post in site.posts %}
         <li>
