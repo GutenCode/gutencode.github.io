@@ -1,20 +1,25 @@
 /* custom.css */
 
+title {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+}
+
 body {
     font-family: 'Inter', sans-serif; /* Use Open Sans for body text */
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Inter', sans-serif; /* Use Barlow for headings */
-    font-weight: 200; /* Bold weight for headings */
+    font-weight: 300; /* Bold weight for headings */
 }
 
 p {
     font-family: 'Inter', sans-serif; /* Use Open Sans for paragraphs */
-    font-weight: 200; /* Regular weight for paragraphs */
+    font-weight: 300; /* Regular weight for paragraphs */
 }
 
 li {
     font-family: 'Inter', sans-serif; /* Use Open Sans for list items */
-    font-weight: 200; /* Regular weight for paragraphs */
+    font-weight: 300; /* Regular weight for paragraphs */
 }
