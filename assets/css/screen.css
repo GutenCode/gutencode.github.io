@@ -45,7 +45,7 @@ ul.posts li::before {
     top: 0; /* Align to the top */
     width: 0.3rem; /* Width of the bullet */
     height: 0.3rem; /* Height of the bullet */
-    background-color: #B0BEC5; /* Change bullet color */
+    background-color: #CFD8DC; /* Change bullet color */
     border-radius: 50%; /* Make it round */
     margin-top: .7rem; /* Align with text */
 }
@@ -57,6 +57,6 @@ ul.posts li::before {
     justify-content: space-between;
     text-align: right; /* Align text to the right */
     margin-left: auto; /* Push the date to the right */
-    color: #546E7A;
+    color: #78909C;
     font-size: 1rem;
 }
