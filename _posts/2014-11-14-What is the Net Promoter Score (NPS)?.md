@@ -4,18 +4,6 @@ title : "What is the Net Promoter Score (NPS)?"
 date : 2014-11-14
 ---
 
-
-<h>{{page.title}}</h>
-
-Article Seven In Detail
-
-
----
-layout : default
-title : "What is the Net Promoter Score (NPS)?"
-date : 2014-11-14
----
-
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
 
