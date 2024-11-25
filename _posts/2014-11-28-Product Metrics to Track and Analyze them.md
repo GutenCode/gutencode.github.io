@@ -4,6 +4,8 @@ title : "Product Metrics to Track and Analyze them"
 date : 2014-11-14
 ---
 
+<link rel="stylesheet" href="{{ '../assets/css/screen.css' | relative_url }}">
+
 ### {{page.title}}
 # {{page.title}}
 ## {{page.title}}
