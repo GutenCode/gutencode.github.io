@@ -1,10 +1,18 @@
-<link rel="stylesheet" href="{{ '../assets/css/screen.css' | relative_url }}">
-
 ---
 layout : default
 title : "Minimum Viable Product (MVP) - What It Is and How to Get Started"
 date : 2014-11-14
 ---
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
+</head>
+<body>
+</body>
+</html>
 
 # {{page.title}}
 ## What is a minimum viable product (MVP)?
