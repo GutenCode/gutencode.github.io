@@ -4,16 +4,8 @@ title : "Minimum Viable Product (MVP) - What It Is and How to Get Started"
 date : 2014-11-14
 ---
 
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
-</head>
-<body>
-</body>
-</html>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
 
 # {{page.title}}
 ## What is a minimum viable product (MVP)?
