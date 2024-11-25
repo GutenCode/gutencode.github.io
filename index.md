@@ -15,6 +15,7 @@ layout: default
         <li>
             <span>
                 <a href="{{ post.url }}">{{ post.title }}</a>
+                <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
             </span>
         </li>
         {% endfor %}
