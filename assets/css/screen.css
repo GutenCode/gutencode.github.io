@@ -51,9 +51,6 @@ ul.posts li::before {
 
 /* Date
 
-ul.posts span.post-date {
-    display: flex; /* Use flexbox for alignment */
-    justify-content: space-between; /* Space between title and date */
-    align-items: center; /* Center items vertically */
-    font-size: 0.9rem;
+.post-date {
+    color: #088F8F
 }
