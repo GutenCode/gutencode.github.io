@@ -3,6 +3,11 @@ layout: default
 title : "Kano Model : Prioritize and Categorize Customer Needs and Preferences"
 date : 2014-11-14
 ---
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ '../assets/css/screen.css' | relative_url }}">
+</head>
+</html>
 
 # {{page.title}}
 
