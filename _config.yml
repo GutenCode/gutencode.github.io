@@ -1,4 +1,2 @@
 title : "Canvasle"
 baseurl: ""
-
-<link rel="stylesheet" href="{{ '../assets/css/screen.css' | relative_url }}">
