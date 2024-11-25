@@ -35,7 +35,7 @@ ul.posts li {
     font-size: 1.15rem;
 }
   
-  /* Custom bullet points using ::before */
+/* Custom bullet points using ::before */
   
 ul.posts li::before {
     content: ""; /* Empty content for the bullet */
@@ -47,4 +47,13 @@ ul.posts li::before {
     background-color: #B0BEC5; /* Change bullet color */
     border-radius: 50%; /* Make it round */
     margin-top: .7rem; /* Align with text */
+}
+
+/* Date
+
+ul.posts li.post-date {
+    display: flex; /* Use flexbox for alignment */
+    justify-content: space-between; /* Space between title and date */
+    align-items: center; /* Center items vertically */
+    font-size: 0.9rem;
 }
