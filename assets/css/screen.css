@@ -51,7 +51,7 @@ ul.posts li::before {
 
 /* Date
 
-ul.posts li span span.post-date {
+ul.posts span.post-date {
     display: flex; /* Use flexbox for alignment */
     justify-content: space-between; /* Space between title and date */
     align-items: center; /* Center items vertically */
