@@ -4,7 +4,8 @@ title : "Product Metrics to Track and Analyze them"
 date : 2014-11-14
 ---
 
-<link rel="stylesheet" href="{{ '../assets/css/screen.css' | relative_url }}">
+<link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ '/assets/css/screen.css' | relative_url }}">
 
 ### {{page.title}}
 # {{page.title}}
