@@ -52,7 +52,8 @@ ul.posts li::before {
 /* Date */
 
 .post-date {
-    text-align: right;
-    color: blue;
-    font-size: 0.8em;   
+    text-align: right; /* Align text to the right */
+    margin-left: auto; /* Push the date to the right */
+    color: #546E7A;
+    font-size: 0.8em;
 }
