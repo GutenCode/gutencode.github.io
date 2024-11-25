@@ -46,5 +46,5 @@ ul.posts li::before {
     height: 0.3rem; /* Height of the bullet */
     background-color: #B0BEC5; /* Change bullet color */
     border-radius: 50%; /* Make it round */
-    margin-top: .6rem; /* Align with text */
+    margin-top: .7rem; /* Align with text */
 }
