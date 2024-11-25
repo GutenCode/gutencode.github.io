@@ -58,5 +58,5 @@ ul.posts li::before {
     text-align: right; /* Align text to the right */
     margin-left: auto; /* Push the date to the right */
     color: #546E7A;
-    font-size: 0.8em;
+    font-size: 1rem;
 }
