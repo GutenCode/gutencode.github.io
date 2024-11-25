@@ -3,11 +3,6 @@ layout : default
 title : "Product Metrics to Track and Analyze them"
 date : 2014-11-14
 ---
-<html>
-  <head>
-    <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap" rel="stylesheet">
-  </head>
-</html>
 
 ### {{page.title}}
 # {{page.title}}
